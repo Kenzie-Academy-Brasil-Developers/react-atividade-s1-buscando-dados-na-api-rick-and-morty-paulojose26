@@ -24,7 +24,6 @@
     .Characters{
         width: 80%;
         max-width: 1000px;
-        flex-direction: row;
         flex-wrap: wrap;
     }
 }

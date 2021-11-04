@@ -17,7 +17,7 @@
 }
 
 .CharCard--photo{
-    width: 100%;
+    width: 80%;
 }
 .CharCard--photo img{
     width: 100%;
@@ -44,7 +44,7 @@
 
 @media (min-width: 400px){
     .CharCard {
-        width: 200px;
+        width: 160px;
         margin-left: 15px;
     }
 }
